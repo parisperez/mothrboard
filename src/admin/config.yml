@@ -1,6 +1,6 @@
 backend:
   name: github
-    branch: master
+    branch: parisperez/mothrboard
 
 media_folder: "static/uploads"
 public_folder: "/uploads"
