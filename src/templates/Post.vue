@@ -15,7 +15,7 @@
 
 <page-query>
 query Post ($path: String!) {
-  Post: post (path: $path) {
+  Post: posts (path: $path) {
     title
     date (format: "D. MMMM YYYY")
     content
