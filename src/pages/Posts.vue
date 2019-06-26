@@ -6,7 +6,7 @@
         <div class="row text-center">
           <div class="col-md-12">
             <h1>Blog</h1>
-            <p>Our latest posts educating clients</p>
+            <p>Here are the posts</p>
           </div>
         </div>
       </div>
