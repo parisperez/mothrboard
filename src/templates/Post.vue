@@ -14,8 +14,8 @@
 </template>
 
 <page-query>
-query Posts ($path: String!) {
-  posts (path: $path) {
+query Post ($path: String!) {
+  post: posts (path: $path) {
     title
     date (format: "D. MMMM YYYY")
     content
